@@ -1,2 +1,5 @@
-# Puzzle1
-Puzzle1
+#Puzzle
+
+Explanation of the code is in the Puzzle file
+
+
